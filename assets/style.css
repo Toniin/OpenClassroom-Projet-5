@@ -91,7 +91,7 @@ body {
 }
 
 #gallery {
-  /*	min-height: 100vh; */
+  min-height: 100vh;
 }
 .title {
   font-size: 1.75rem;
@@ -363,11 +363,4 @@ input[type="submit"] {
   .picture {
     width: 80%;
   }
-}
-
-
-/* MON STYLE */
-
-.gallery-image {
-  width: 50%;
 }
