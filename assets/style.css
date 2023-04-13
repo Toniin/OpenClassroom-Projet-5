@@ -364,3 +364,10 @@ input[type="submit"] {
     width: 80%;
   }
 }
+
+
+/* MON STYLE */
+
+.gallery-image {
+  width: 50%;
+}
